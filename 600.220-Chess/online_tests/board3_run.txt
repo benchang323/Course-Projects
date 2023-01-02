@@ -1,0 +1,2 @@
+L test_cases/checkmate1.txt
+M E3H3
