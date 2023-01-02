@@ -8,9 +8,6 @@ This repository contains all the course projects that I have completed as part o
 3. Digraph Analyzer
 4. Chess
 
-## High School Data Modeling, PHP, and SQL (HSDMPS)
-1. Photo Sharing Application
-
 ## AP Computer Science A (APCSA)
 1. Cheapest Path
 2. Cards
@@ -22,5 +19,10 @@ This repository contains all the course projects that I have completed as part o
 1. Battleship
 2. Minesweeper
 
+## High School Data Modeling, PHP, and SQL (HSDMPS)
+1. Photo Sharing Application
+
 ## High School Java (HSJ)
 1. Blackjack
+
+_Last Updated 1/2/2023_
