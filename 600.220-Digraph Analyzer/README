@@ -1,0 +1,47 @@
+# Digraph Analyzer Program
+Name: Benjamin Chang
+Hopkins ID: 4414D5
+
+## Program Structure
+The program first scans the input file to store the di/trigraphs to look for in a vector<string>. Then, a map<string, vector<string>> is used to store the di/trigraph key and list of words that contains the di/trigraphs via the function di_trigraph_search. di_trigraph_search then takes in the vector<string> to create a result map<string, vector<string>> after normalizing the data (case insensitive, remove punctuation, etc.) and looping through the input text file. The di_trigraph_search function also prints out the result of search via print_initial_results and iterators, where the map<string, vector<string>> is already ordered by system based on the key. To print based on count function, a vector<pair<string, int>> was created to store the key and its corresponding length before printing the map<string, vector<string>> based on the vector<string> size in map. Lastly, in the query section of program, a function in_list is utilized to check whether the di_trigraph inputted is in the list or not. To convert float or int values from string to int itself, stoi() function is used. User could exit the program during prompt by typing "exit".
+
+## Function Descriptions
+1. print_initial_results
+    - Functionality
+        - Prints the initial results of the di/trigraph search
+    - Parameters
+        - const map<string, vector<string>> &result
+            - The result map<string, vector<string>> to print
+        - const string& arg
+            - The argument to print 
+    - Return
+        - None
+
+2. in_list
+    - Functionality
+        - Checks if a string is in the list of di/trigraphs
+    - Parameters
+        - const string& word
+            - The string to check
+        - const vector<string>& list
+            - List of di/trigraphs to check against
+    - Return
+        - True
+            - if the string is in the vector<string> list
+        - False
+            - if the string is not in the vector<string> list
+
+3. di_trigraph_search
+    - Functionality
+        - Search and categorize the di/trigraphs in the input file
+    - Parameters
+        - const vector<string>& list
+            - List of di/trigraphs to search
+        - const string& arg
+            - Argument to search for (a, r, c)
+    - Return
+        - map<string, vector<string>>
+            - A map that contains the search results where the key (map<int, string>) stores the number of occurances and the di/trigraph. The matching words are stored in vector<string>.
+
+## Applicable Questions
+One thing I found particularly clever was how C++ orders the map. It allows me to not write extra code to resort the map since I could directly use the direct and reverse iterator to display the desired results. Another thing I found clever was the flexibility that pair<> gives since it adds additional slots to store data to fixed size structures such as map<arg1, arg2> and vector<arg1>.

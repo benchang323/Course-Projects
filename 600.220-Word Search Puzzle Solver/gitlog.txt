@@ -1,0 +1,891 @@
+commit a22c7680613a32f3f0a7578799fa599f1ced6a0e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 17:50:33 2022 -0400
+
+    fixed makefile
+
+commit 2405fe11549cd93a78f67d255dc067930eb4fa4e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 17:35:52 2022 -0400
+
+    cleaned and renewed executable for undefined error
+
+commit 47ad777c0b752382563077139b86cdf2680275d6
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 17:32:45 2022 -0400
+
+    fixed undefined references
+
+commit 8a6ad121f27e5e9902dee44450bfcf11b5752962
+Merge: 0a04c74 508655e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 17:26:20 2022 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2022-fall-student-bchang26
+
+commit 0a04c749339bd9403ccb2cf8059ca44a19ec3788
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 17:26:18 2022 -0400
+
+    Added text files and completed populate grid tesst
+
+commit 508655e7b94a766dc71a9b276f3589e6be38647e
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 17:25:53 2022 -0400
+
+    updated corrupt file
+
+commit 9cf4cab08ac725149f9fc7b659a87d29f9d3e63b
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 17:18:38 2022 -0400
+
+    created grid test files
+
+commit 87d59f8d4c149fef6f86f9ecd455e5a58f7c31ba
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 16:41:38 2022 -0400
+
+    changed text file content
+
+commit 5c43941a0c47c2ca959228e57c1192ab63c961ce
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 16:39:24 2022 -0400
+
+    changed search test
+
+commit c3aeb30aee913dcca5209728de5578048a927709
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 16:27:31 2022 -0400
+
+    completed test_find_all
+
+commit 136d36e683523bbffc9d9fe56ea93690946d3329
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 16:01:38 2022 -0400
+
+    filled all test cases except grid and all
+
+commit 6d707cd0579de7b1e3afd1a1e53e3057baf33881
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 15:51:03 2022 -0400
+
+    added test cases to the test file
+
+commit bd8e599d85397ea9a6a3785d91730772ccf5e081
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 15:00:34 2022 -0400
+
+    fixed control flow error
+
+commit d7fed72c526923c668b7f8803c53ccf701316185
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 12:51:35 2022 -0400
+
+    added pseudocode for test file
+
+commit 60d0c73289f6d13de3e0923bddece925868d4bdf
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 01:15:23 2022 -0400
+
+    Removed executable
+
+commit 97bf77f2770c497922c2a69c58e83133f4693fc8
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 00:28:59 2022 -0400
+
+    fixed -Wextra error, reran executables
+
+commit a3a014a5c77cd8f3ee4033ac295bc0e0a06d582f
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 00:12:34 2022 -0400
+
+    Created executables
+
+commit f5974662c7c77ebe4a7bb578e3f4e7549999b127
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 28 00:08:38 2022 -0400
+
+    cleaned executables
+
+commit d36d80c40805a8ae5e1bb7adc80bc174fe0e3e06
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 23:57:51 2022 -0400
+
+    fixed search funcs(final), infinite loop err exist
+
+commit c458c0d3a6ca837f38dd1e69898d25a7c27dd976
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 22:15:53 2022 -0400
+
+    fixed search_functions.c for direction error
+
+commit eebe5eb059d445182b0dfbcec403c2aaaba33c9b
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 20:36:29 2022 -0400
+
+    Finished fixing search functions
+
+commit 5e7442313a0808a1d8d01c823e9976e49813b982
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 20:25:42 2022 -0400
+
+    fixed find_left
+
+commit ea34cb34adf23144b04aff096726314b2f67e918
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 20:24:34 2022 -0400
+
+    Fixed find_right
+
+commit 2684aace5531944b6d1e5bab2f108ac728a9135b
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 19:47:34 2022 -0400
+
+    completed search_functions.c, tested cases w/ grid
+
+commit 2b537837917b287de15f73fe75922886abca5da3
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 19:47:08 2022 -0400
+
+    completed search_functions.c
+
+commit 23fda8be66386a98743c9bec3607b025cb2a154a
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 11:45:18 2022 -0400
+
+    updated makefile, completed search functions
+
+commit c61b4a887837d0d89ced64adf4d2a4720ae4233c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 27 00:45:55 2022 -0400
+
+    Edited hw03
+
+commit f91b14240b44936b146e3b5432e8c5b03e4bc279
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 17:35:47 2022 -0400
+
+    updated README
+
+commit ace59b8e4cf76d668db5812405164a18eec8d4a7
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 17:30:53 2022 -0400
+
+    fixed ex10 trivial error
+
+commit 2b5b0ad95d4f398fac762e1b079fae90c77cd834
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 17:29:17 2022 -0400
+
+    Finished exercise 10
+
+commit 8047470287139502dea790f369c650ba16ab6f8e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 17:02:54 2022 -0400
+
+    finished ex09
+
+commit 3b41243d260f4c7309220b80cb4cdfd762e4932c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 14:53:57 2022 -0400
+
+    Created readme for error for ex8
+
+commit ef32aa6e5c594b5ebdfc723c4b6a844115365e58
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 14:38:57 2022 -0400
+
+    update executables
+
+commit 3eecfd9bb3cbb37a035b6706d81e668ad54b4319
+Merge: 89c0a9e c102510
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 14:38:09 2022 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2022-fall-student-bchang26
+
+commit 89c0a9ecbb5d6b9c3691fc0b6d0dd3b8e9be0c1c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 14:38:07 2022 -0400
+
+    fixed run_concat.c
+
+commit c102510b98a4d677d325b1b03ce7e0829d745515
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 14:37:31 2022 -0400
+
+    Delete Archive.zip
+
+commit d1f2c39e15dba3162589ca4e6ca9c1aa82b15d3b
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 14:37:00 2022 -0400
+
+    Removed zip files and executables
+
+commit ee32494206d60567fd93694cfa8634766bbb3bdd
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 14:34:23 2022 -0400
+
+    Finished exercise 8
+
+commit 3b53d1aa068fdc6dc9593c522e1d4ee8cbe9400d
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 13:48:09 2022 -0400
+
+    Pulled exercise and homework files from repository
+
+commit 28f6bbe58dca85dfa40144276aee4165505ea8e5
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 26 10:19:54 2022 -0400
+
+    Copied ex11 files
+
+commit 2c8ec4466870b89c3b4fdc1da2865ed5b6e38053
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 23 11:09:17 2022 -0400
+
+    Organized Files and Downloaded Exercise Source Files
+
+commit a949b49ca9802007ef049665ee7214f6c4bb3000
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 17 16:33:31 2022 -0400
+
+    Finished HW2
+
+commit ce04c7702aca604fd48c09ce2fca3a073f3bd6fa
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 17 15:13:27 2022 -0400
+
+    added source code for all homework 2 files
+
+commit c779f374ddea249bf2536fc2b3e4147302daa53d
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 17 14:11:48 2022 -0400
+
+    Created blank documents for questions in HW2
+
+commit eae27033663dc68b48f5cc45c2177bb426f87c8e
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sat Sep 17 13:52:53 2022 -0400
+
+    Created HW2 running files
+
+commit ae9141959263c7b57e7ac48d7d6218d3008d17e4
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sat Sep 17 12:45:04 2022 -0400
+
+    Update .DS_Store
+
+commit d0db09311d40420c1a9df5cbe89e51eaaaf61be7
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:43:41 2022 -0400
+
+    Renamed file to label importance, added correct file for compound.c
+
+commit fd1759b6539f98ba561f1a265b560675bc6fb2a9
+Merge: 40d1c35 83ccae1
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:40:30 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit 40d1c35508057988192b30f01b3b350ea9f87dd2
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:40:28 2022 -0400
+
+    Create .DS_Store
+
+commit 83ccae14ea808ca5bf36c0adcf0b4f05c9a352da
+Merge: d6343c0 8068d3f
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:40:11 2022 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2022-fall-student-bchang26
+
+commit d6343c0263cb8b5b27a51ff1d91996f0c6e1a066
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:40:10 2022 -0400
+
+    reverted compound.c
+
+commit 8068d3fd46a2f56eb156465784071c219fc3ca2d
+Merge: 9bccfcf 01a249e
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:33:13 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit 9bccfcfa3d704c34013d492f081d68dcc1523e2f
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:33:11 2022 -0400
+
+    Delete Archive.zip
+
+commit 01a249e0a9deb18497e2d462d999b05b3c76dddd
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:33:03 2022 -0400
+
+    fixed compound.c
+
+commit 29bfeb5d966b819721dd8339fe0c3cc5e2a20be5
+Merge: 7d345cb 7ee74d4
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:31:23 2022 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2022-fall-student-bchang26
+
+commit 7d345cb97317079c438bd5b1827d20fc573afba3
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:31:21 2022 -0400
+
+    tried another implementation of fixing return error
+
+commit 7ee74d4f49b9658632bb581e02448897cb9a3cd4
+Merge: 1dff556 58267f7
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:29:54 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit 1dff5565cf36f098437423d935d88da70951a412
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:29:51 2022 -0400
+
+    Create Archive.zip
+
+commit 58267f7e5ae9bc0dfca174f91e4f0881dfdfde90
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:29:39 2022 -0400
+
+    fixed error message
+
+commit 475c31ab3c6c19a1d37dc032701728d19a8335f6
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:26:51 2022 -0400
+
+    added feof
+
+commit ceba01a01cfeeb0343db3e1785e736e4545d6d07
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:21:04 2022 -0400
+
+    final commit for functions.c
+
+commit 1dcf62818e9194e22de53961743873a05eb5836e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:16:39 2022 -0400
+
+    Fixed return type eror for functions.c
+
+commit 29c746248df4f175cef89c3f6deba643f3fb4338
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:14:23 2022 -0400
+
+    Fixed results error
+
+commit 60438756e7edcdcbe165d80b7592cbf50f4e206c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 14:09:56 2022 -0400
+
+    fixed segmentation error in functions.c
+
+commit 8b0820cd5711316a339f73b783566ed6013c6072
+Merge: 61f7d08 07cdada
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 13:33:44 2022 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2022-fall-student-bchang26
+
+commit 61f7d08e0b3ed2aaec1f12178449aee17a489d3d
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 16 13:33:43 2022 -0400
+
+    remove the .nfs system file
+
+commit 07cdada46ee94061e3920eff594c0802abaca506
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 16:23:15 2022 -0400
+
+    Update DS_Store Files
+
+commit 15207d17520e3b38d49165e26d354e962cd172d0
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 16:17:28 2022 -0400
+
+    updated ex05 and edited 3x07 code
+
+commit 33832988764367998102031bf041178ad38d5403
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 11:22:18 2022 -0400
+
+    reverted
+
+commit 69c56bf983b524a0eceb64023bb42ab9d1742435
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 11:21:24 2022 -0400
+
+    fixed while loop
+
+commit 336b50dd60e6dcdd06f40ae5806086b2ab67ea92
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 11:11:26 2022 -0400
+
+    error message change
+
+commit 14db0e00dd419b2dffb4e807702482b7b6ae34b8
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 11:07:29 2022 -0400
+
+    parsing error
+
+commit 6474cbc85fe40819318d489c15e6b84c03a32e80
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 11:06:12 2022 -0400
+
+    fixed parsing error
+
+commit 842909a01df31147bb24354097b55a4b77b3114c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 11:03:56 2022 -0400
+
+    fixed return error for compound.c
+
+commit ee29b2b036f2543252359c4d4dc06f1ba6de7972
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 10:57:20 2022 -0400
+
+    Finished compound.c
+
+commit e7cfeb78eeb78b38cda1e603ae1980a75903d162
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Sep 15 10:13:48 2022 -0400
+
+    remove two system files
+
+commit 8e3612329e7b847c6d4d5b9b1a435dd9ce517e9c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:36:11 2022 -0400
+
+    added gitlog
+
+commit edb0fe281f55d62f22a6f88e782d241f20ebd72b
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:35:44 2022 -0400
+
+    added gitlog
+
+commit 4104eaf010934156695d540961b4d5e93c01d923
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:31:00 2022 -0400
+
+    fixed unsigned/signed problem - final
+
+commit e491fa50f80becbc685f3417bb8fe25adc874976
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:29:54 2022 -0400
+
+    fixed unsigned/signed problem
+
+commit 5f87db5d7c1e865ad4b00d3519b5c2f38957f120
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:28:18 2022 -0400
+
+    fixed integer comparison problem
+
+commit 35c244d3583af9ce6c3532283d172f08acd3ee69
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:16:25 2022 -0400
+
+    added new gitlog
+
+commit 74d7836b95124f7411df4e606ea01be11e8456ee
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:15:39 2022 -0400
+
+    fixed trivial errors
+
+commit 31dda7d777dec2362479b90aa9e2cd00eea10bc6
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:12:20 2022 -0400
+
+    Delete hw1.zip
+
+commit 02ede7e839b0c9a26a5bf9041e112372ab143e88
+Merge: 04ebab1 786ff1e
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:04:15 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit 04ebab1a9b3afac5a0d41147353256231ef78e50
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:04:09 2022 -0400
+
+    Create hw1.zip
+
+commit 786ff1e8f638da5318d923140beaa776df61fb0c
+Merge: e7d602c 4bb2203
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:04:01 2022 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2022-fall-student-bchang26
+
+commit e7d602cd97284ff5f89dfb65d1eddb3526ba33f7
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 16:03:58 2022 -0400
+
+    fix $ sign error
+
+commit 4bb2203bc26a20339ec330bada47fe6223265492
+Merge: a8a49c0 caef784
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 15:56:59 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit a8a49c032ffe7dcb36d41f5ea576b62ebad61a40
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 15:56:57 2022 -0400
+
+    Create .DS_Store
+
+commit caef7844d5d0d8f5ab909ce68b10da55bf9dd6bb
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 14 15:55:38 2022 -0400
+
+    completed homework 1
+
+commit 743d24e870cd3fab75d11dcf5ff49d1df63d93d6
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 12 15:48:12 2022 -0400
+
+    edited and extracted compound.c file
+
+commit a4c7523ea7fd0727e7e02f7dd4c6579abf88b5a2
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 12 15:48:01 2022 -0400
+
+    edited compound.c file
+
+commit 740b99dfbd6e337ddb71544420975e5bb6d462ea
+Merge: 0be9eda 2689df5
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 12 14:43:40 2022 -0400
+
+    fixing git
+
+commit 2689df597e59ab10bf6186c0ee0de988d0dc2ba7
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Mon Sep 12 14:39:18 2022 -0400
+
+    Create ex05.zip
+
+commit 0be9eda9dc813ed2f5ed2910e044eac86904e7b6
+Merge: 6d7b6dc ab63819
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 12 14:36:21 2022 -0400
+
+    organize files
+
+commit f27a2b5750df0e663a9f13dc2cd4063a55e18451
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Mon Sep 12 14:35:41 2022 -0400
+
+    Update files for ex05
+
+commit 6d7b6dcd4b30c2005194eae8230d3651b4bf9c2b
+Merge: 34e86ce fd12637
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Sep 12 14:35:31 2022 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2022-fall-student-bchang26
+
+commit ab63819faaef1caf8dd7b70fabfa6b8ba9c3a9e7
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:34:39 2022 -0400
+
+    Update ex05.zip
+
+commit 90f37720e629471b770e85bb7dc2d4d60e013598
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:29:31 2022 -0400
+
+    ex05 final changes
+
+commit 18e96dd7c089687590879e25a62c34445af4021a
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:26:28 2022 -0400
+
+    ex05 final changes
+
+commit 34e86ce49896fa69d999dc587e8008d04166419c
+Merge: 865daf0 4bcd3be
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:24:04 2022 -0400
+
+    ex05 finalized
+
+commit fd12637e8913704ec86fbe2793e413272c51148a
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:23:27 2022 -0400
+
+    Delete count3
+
+commit 865daf0d538ce53bc1998ac5f2894a171e43c81b
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:22:55 2022 -0400
+
+    Finalize ex5
+
+commit 4bcd3bebce641ad2ef5e2faf37129a15bb8545ce
+Merge: ca65b48 c66a111
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:21:59 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit ca65b48eec754e9e7ebe964fb23d0479f3fe40e1
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:21:47 2022 -0400
+
+    EX5 commits
+
+commit c66a111aa7ea75faea977d9ad59029198188dab0
+Merge: a8713cd 9070bce
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:17:03 2022 -0400
+
+    added count3.c
+
+commit a8713cd894b2160b00decbc8c30b963e46f1f933
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 16:16:04 2022 -0400
+
+    done with count3.c
+
+commit 9070bce6bcb4875e04a79176e6fa254f3a3aece7
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Sep 11 15:08:03 2022 -0400
+
+    Update count3.c
+
+commit 01d473c9a545b20e925f00fb35934613ca8e6873
+Merge: f397b9e 1fef5de
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sat Sep 10 10:35:18 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit f397b9ea70450edf22df3fd0dfd7d4e97f8f716f
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sat Sep 10 10:35:17 2022 -0400
+
+    Update hw1.c
+
+commit 1fef5dea573050d4123c535a55225c5753209c25
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 10 01:07:38 2022 -0400
+
+    added exercise 5 files and solutions; edited hw1 solution
+
+commit 1d9d90369dde0aa38a539298f158d71d903ff32a
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 9 15:10:41 2022 -0400
+
+    finished count1.c
+
+commit 43ecc5b9f00052f546c688f23475aafd22ea2b53
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 9 13:51:36 2022 -0400
+
+    created hw1.c and initial code structure
+
+commit ab58ad4d5234d531bef88421bdef78fef358e831
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 16:29:03 2022 -0400
+
+    Added C Strings Video Exercises
+
+commit 47e228faa5b7a9fc82fb39c6644c622f79f92eff
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 15:20:23 2022 -0400
+
+    Array Example
+
+commit e7642ef6e59ba9cc2f5d5fc915283afc522e2849
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 15:05:00 2022 -0400
+
+    Added Comment
+
+commit 2666f813e8cf2e2a0af1526e25ec4b6ca4275c35
+Merge: 7fe567c 01c10bb
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 14:50:09 2022 -0400
+
+    commit final ex04 edit
+
+commit 7fe567c9246d8c1f016f944daa4efd198397d507
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 14:43:19 2022 -0400
+
+    final commit for ex4
+
+commit 01c10bb3c456a5a57eab5faa79b84990aebc16c1
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 14:37:06 2022 -0400
+
+    Commit Ex4 Files
+
+commit db3f498ef7721cf7a7a9cd0ef0b2b4153d2f978d
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 14:27:09 2022 -0400
+
+    created zip file
+
+commit 443b68272725bc123e8c6c4ac3dc5c0cd4089456
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 14:26:05 2022 -0400
+
+    Finish ex04
+
+commit 5ef5d072fdc1f147ae113df0b1ceee3918455f44
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 14:05:55 2022 -0400
+
+    fixed ex4 file
+
+commit 8a2046c74603ceee1ec5fec61ed56ee893c9eb98
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Sep 7 13:38:59 2022 -0400
+
+    revised one.c back to its original task
+
+commit 4b87715e103ef9fbfc1879fea6ff165cc9dc3e8d
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 6 22:31:44 2022 -0400
+
+    Changed first prize name
+
+commit 3520c98a6110699555c55eec0c6f3f1a681fbfed
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 6 19:52:20 2022 -0400
+
+    Ex04 90% complete with scanf bug
+
+commit 6e73e56e6560de58f7ab58226de5419f895ba411
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Tue Sep 6 18:57:24 2022 -0400
+
+    organized files; copied ex4 from other repo
+
+commit 30c0a80fee826773333c167822d34b5de5cf939e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 19:51:35 2022 -0400
+
+    zipped HW0 file
+
+commit daca1b168d9dcf89730f187df1fa443d540f5237
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 17:00:01 2022 -0400
+
+    organized files; finished part 1 of HW0
+
+commit df99852d0c9367d60ee01fb5682efbfeb31676ac
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 16:52:09 2022 -0400
+
+    remove blank file
+
+commit dbd32fd450755f1a64f7b76fbd1e43c524af0f3d
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 16:51:05 2022 -0400
+
+    tested copilot on blank.c
+
+commit 91480be45d62bc98450590564dbbef766aa19d69
+Merge: 221e6b6 0d3ae70
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 16:06:42 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit 221e6b6fb04024f4f17d6ebad3c5f8def7e4f4ac
+Merge: 2a48c89 81d6c6b
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 16:05:29 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit 0d3ae7085fd7df7ca8da566cf607aeacbccc98a6
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 16:05:18 2022 -0400
+
+    organized files
+
+commit 81d6c6b094c713ad1a2317470d479eab0a1a76f8
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 16:03:52 2022 -0400
+
+    complete exercise 3-A assignment
+
+commit 2a48c893a76a59dec440d4b708b834465488e86f
+Merge: c3d17a4 9576433
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 15:59:42 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-student-bchang26
+
+commit 95764338631eee9b8353975eecc50493944da10e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 15:45:22 2022 -0400
+
+    updated blank.c
+
+commit 529a4c10f7dff5daef723c517410d89bb925807d
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Sep 3 15:42:49 2022 -0400
+
+    added new files for Exercise_3
+
+commit c3d17a404e47570dbec130cb80fa628a25b85d53
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Sep 2 14:34:07 2022 -0400
+
+    Update README
+
+commit 1cafe4282b7bc27d96c49ca8e1f091276bb019ca
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 2 14:33:04 2022 -0400
+
+    removed test file
+
+commit eeb064f8e46c14eda190a9a268da19882532230c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 2 14:25:42 2022 -0400
+
+    Test file
+
+commit acedc236837b3c3fa36e90fb9356b145cbca5293
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 2 14:23:47 2022 -0400
+
+    updated README (Final)
+
+commit 35d06cc7af5412115a5cca9815bcb3eba0efa086
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 2 14:11:30 2022 -0400
+
+    removed minor from README
+
+commit d21e561d27dc1af8ff35822e9c601feda2c8e386
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 2 14:09:12 2022 -0400
+
+    updated README
+
+commit 8275ba42ca167a70fbdd224265189913f3e27459
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Sep 2 14:05:24 2022 -0400
+
+    created README and moved past files in repository
