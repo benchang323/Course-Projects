@@ -1,0 +1,4 @@
+L invalid_moves/board014.txt
+M F1C4
+S output_dump/output3.txt
+q

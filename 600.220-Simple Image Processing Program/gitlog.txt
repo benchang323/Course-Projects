@@ -1,0 +1,492 @@
+commit 907fc598544bf75aa2ac62284cb56a8b0ac03cae
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 26 17:07:05 2022 -0400
+
+    debug through swap again
+
+commit dd14da27c10a67f75d83ac1941a2b141615d0c13
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 28 14:07:19 2022 -0400
+
+    error handling commits
+
+commit 45f399a1321f09ea1cee54feb539a729f665560a
+Merge: 73b85d6 64b4825
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 28 14:06:18 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit 73b85d6092c8e759fdb4014f58a902b081435cfa
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 28 13:58:13 2022 -0400
+
+    finished error handling
+
+commit 64b48259c4083ef0b765c62980edc84a72412a7b
+Author: Timothy Lin <55767165+Deodat-Lawson@users.noreply.github.com>
+Date:   Thu Oct 27 17:53:46 2022 -0400
+
+    Update project.c
+
+commit f0db9fca847be9b9229e9251e2552316f369bce2
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 22:17:32 2022 -0400
+
+    changed input to double
+
+commit 3b4dca4e6bc9f9abd053c5cce1b76811c6a8a1f0
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 20:31:17 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit 5f4279b1ac02bf71815afb7c8ffb01a0b2e8eb57
+Merge: 8076b4f a2d09af
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 17:06:54 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit 8076b4f5dfb823ade46ca85dfaadc245863888af
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 17:06:38 2022 -0400
+
+    compared images
+
+commit a2d09af8a5ff2442e15c5cf652c87fd461fec086
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 26 17:06:08 2022 -0400
+
+    revised through all code
+
+commit 1299073b231de85ae17478a1a3b531371671a1fd
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 16:55:38 2022 -0400
+
+    attempted to do img_cmp
+
+commit f34e62fc14b5551aa15255d8ce65e9a1c3ab59a4
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 16:01:00 2022 -0400
+
+    error code handling
+
+commit b9d8bfdc67782a8c80747fed652c96234234c950
+Merge: a97f8df c0318d8
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 15:37:58 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit a97f8dfb6ae74cb57402a93ce10fdc7d64395f0c
+Merge: 752b9a6 582b7f2
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 15:37:38 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit c0318d86b6cd114e8c78c8f17d1141221735002a
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 26 15:37:24 2022 -0400
+
+    made gitlog
+
+commit 752b9a6c287b2373cc5152855381f7b80396d9bc
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 15:36:27 2022 -0400
+
+    Revert "removed makefile error"
+    
+    This reverts commit 8f0439624c38f12dcfe1368f337c707fadb70019.
+
+commit 582b7f2acef26fd9e2ba7b04898f72069b84b46a
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 26 15:32:06 2022 -0400
+
+    revised makefile
+
+commit 8f0439624c38f12dcfe1368f337c707fadb70019
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 15:31:28 2022 -0400
+
+    removed makefile error
+
+commit 5108c13c94e700c8f6217eb8047953780718c68c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 26 14:25:28 2022 -0400
+
+    tested results with answers (imported)
+
+commit 27ab1988722daa00e116a6521e030823ae691531
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 26 01:19:37 2022 -0400
+
+    fixed all memory errors!
+
+commit 81df0914e17d9e88cbeda5781de676118d142790
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 26 00:52:39 2022 -0400
+
+    swirl is done
+
+commit bc59fe614220e1a2a3ac3420f188eb2e0ef04ec5
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 26 00:25:30 2022 -0400
+
+    fixed edge_detection
+
+commit c2363cee9e630d4cfbfd08dd0b01f8472b1bf033
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Tue Oct 25 22:59:05 2022 -0400
+
+    testing edgeDetection
+
+commit 9ec3558cb557ae53ea734c6b0885f04d95b63ded
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 24 12:23:20 2022 -0400
+
+    confirmed results for functions except swirl/edge
+
+commit d27d665fc33cf93b89e1defa9f90764cbfdbef0a
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 24 12:04:31 2022 -0400
+
+    imported base ppm files
+
+commit dd720c222835da18cd1ac7516e56d12336fda2b3
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 24 12:00:53 2022 -0400
+
+    reverted back to previous version
+
+commit 1e842d48f745e2889daeec01649159c4829593c1
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 24 11:58:33 2022 -0400
+
+    removed binary files, fixed rotate-right
+
+commit 58c600645917dea489dbd8f43ed19a330912efaf
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 24 10:34:56 2022 -0400
+
+    added tree test cases in makefile
+
+commit 5cfcb9b74ad874d39a9e870f94a9e20d859b4b8c
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 24 10:17:35 2022 -0400
+
+    removed binary files
+
+commit 5ba76b3b661645a59af298f33f8c9b1dba752d61
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sun Oct 23 16:47:11 2022 -0400
+
+    attempted to fix swirl/edge, still need more edits
+
+commit ece404cdadf42baed79a599200950df3912640c4
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sun Oct 23 14:52:21 2022 -0400
+
+    fixed and tested rotate-right
+
+commit c3c32735862422967803fc991cb6f15508be15bc
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sun Oct 23 14:50:46 2022 -0400
+
+    fixed and tested zoom-out function
+
+commit 5b2b97d824123fdfdc47aa0c5b85c372c301a719
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Oct 22 14:07:44 2022 -0400
+
+    test swirl function
+
+commit 9e5bbacc8b945d1bd2ccbff29b18072e493a816e
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Sat Oct 22 14:04:59 2022 -0400
+
+    test swirl
+
+commit dad7ca391057bd51b50fa2735dcec84a468bb112
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 17:17:26 2022 -0400
+
+    ran test files, identified and noted errors
+
+commit cb669fa768c1d8fe8d90cf187cb16ebbec9d0116
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 16:52:41 2022 -0400
+
+    test zoom-out
+
+commit c166c77c73e7dba6ce00747b800a22eafa52370b
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 16:25:51 2022 -0400
+
+    ran all functions, commit to test in xquartz
+
+commit ec3144a090fffa3f9b32dd03ecbd0490faa3b3f2
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 15:55:59 2022 -0400
+
+    Ran and tested swap function
+
+commit 1cfd492a4f138e54182aa4d2be1aae152a8c9ec4
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 15:33:44 2022 -0400
+
+    Minor fixes for makefile
+
+commit 659ec155a8923aa72a2f6b89628567355bfa4fd6
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 15:32:04 2022 -0400
+
+    removed executables; imported ppm files
+
+commit 562613c5ffbc65f2e628a302a5c95ca7fc0369c6
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 15:31:52 2022 -0400
+
+    deleted executables; imported test ppm files
+
+commit aed716fb5ee55a187d0826d09c52a570096fd759
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 15:22:38 2022 -0400
+
+    added comments for ppm_io files
+
+commit a176483d525c8f5acc35caa31f126d436481bd01
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 12:52:38 2022 -0400
+
+    Added comments/defined functions in image_manip.h
+
+commit 2f375666e1e68ca9c3ddf07894633ee51a932f0a
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 12:35:05 2022 -0400
+
+    Fixed errors in image_manip.c and added comments
+
+commit eb72bf3001c2276873fa18e81d468836cdb5bfa0
+Merge: 7d9eac3 b101d88
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 12:34:48 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit 7d9eac395712e6c26c9a11861eb9ea5a2a7c3d85
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 12:32:20 2022 -0400
+
+    Fixed errors in image_manip.c and added comments
+
+commit fc7057cf11445cd75cfbfbcacbb24dc2c0300cd1
+Merge: 6c0ec50 3de6cbc
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 12:18:03 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit b101d8854e7c4c6c511e7b3a2aaf20cb9e971a10
+Merge: 1b45f85 36fe038
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 10:28:08 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-fall-midterm-bchang26-tlin56
+
+commit 1b45f8572fc534b5846a82f463770e1b876f6690
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Fri Oct 21 10:27:44 2022 -0400
+
+    Update image_manip.h
+
+commit 36fe0388bc5786c83d83cc4dd82b08c28b57ad99
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 19 14:55:08 2022 -0400
+
+    valgrind checked 0 bytes def lost/ 6505 err
+
+commit 5e27c6db0fc68645c86ed7b4bd923149497f90e6
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 19 13:53:42 2022 -0400
+
+    making suere everything is pulled
+
+commit ed24a042d10e3f15d181f9a7a21e505d1a81f46d
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Wed Oct 19 13:48:45 2022 -0400
+
+    ran write image and free image (needs debugging)
+
+commit 90b8dbabb9d0c797760ba153e756b7b1bb2b8164
+Author: Timothy Lin <timothylinziqi@gmail.com>
+Date:   Mon Oct 17 15:47:45 2022 -0400
+
+    Finalize makefile
+
+commit 616187a07febdb1edf719eb5282ff974ec1f6284
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Thu Oct 13 17:36:17 2022 -0400
+
+    Timothy - Final makfile change! Compiled!!!
+
+commit 52a25fb683b77e37c2a7e18c053f3a57191f002d
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Thu Oct 13 17:29:52 2022 -0400
+
+    Timohty fixed Makefile (Revised -added in -lm)
+
+commit 56f16a7738a2b74a9acc13ea2eb6e969ddb5b7a5
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Thu Oct 13 17:22:25 2022 -0400
+
+    Timothy - debugging again
+
+commit 6e2ce89e8ef50f9def7e05dabb235024f5a2dcbb
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Thu Oct 13 17:19:51 2022 -0400
+
+    Timothy - fixing Makefile (seperating executable)
+
+commit 60ad73438cc403de33f237dce5bf59eeeba8b5e4
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Thu Oct 13 17:11:14 2022 -0400
+
+    Timothy - commented out checkboard.c for debugging
+
+commit 8b105a0cedd56e1058d169119c2d9d6f11073af0
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Thu Oct 13 17:02:20 2022 -0400
+
+    Timothy - fixed Makefile (added .o for debugging)
+
+commit d7ae36b34719d93385a8e5a89d87a8edfd9602bb
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Thu Oct 13 16:26:26 2022 -0400
+
+    Timothy - Makefile error (debugging function.c)
+
+commit 2556188a42f78703cb960da6be811eac326ff4c9
+Author: Timothy Lin <55767165+Deodat-Lawson@users.noreply.github.com>
+Date:   Thu Oct 13 16:13:59 2022 -0400
+
+    Add files via upload
+
+commit 6c0ec50e24be43c6029006bf9fb9502fdf3d1885
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Thu Oct 13 16:09:10 2022 -0400
+
+    added comments for image_manip
+
+commit 3de6cbc40e4c6615966cb28d2bf738fb959d9719
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Wed Oct 12 14:48:32 2022 -0400
+
+    Timothy testing ppm_io stage 1 (write file)
+
+commit a48ca1777d8ceb4bcce34c71dfd513d59ec6b541
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 12 13:42:55 2022 -0400
+
+    added identifiers (author name, file name, etc.)
+
+commit 387e25086e0d6eace6146f995dc7dcd2e7c54df4
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 12 13:39:28 2022 -0400
+
+    initial code for Makefile
+
+commit a6aab315a13cd5ddbcc8abdca490dc0458a5752c
+Merge: b062a07 a2d14af
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 12 13:34:59 2022 -0400
+
+    merge remote-tracking branch 'origin/master'
+
+commit a2d14afbc23773db14e5b888db791954bc661cba
+Author: Timothy Lin <55767165+Deodat-Lawson@users.noreply.github.com>
+Date:   Wed Oct 12 02:05:48 2022 -0400
+
+    Update README.md
+
+commit b062a07c25562f15376ccff0cd0dc65099801068
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Wed Oct 12 00:18:14 2022 -0400
+
+    completed initial code segments for image_manip
+
+commit 291a3f0f57a5da65ca79d535144fcc1fe50e7037
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Mon Oct 10 17:43:11 2022 -0400
+
+    Timothy - draft 2 for midterm project.
+    Changed functions resize_img free_img write_ppm, needs testing
+    Testing to be done next with makefile
+
+commit ee1308da9cd27a66828a8ea2a64fb00373564777
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Mon Oct 10 10:41:35 2022 -0400
+
+    Update README.md
+
+commit 25eb17d783065b3d6fbf2ff192974408fce3ac7a
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Mon Oct 10 10:39:56 2022 -0400
+
+    Update and rename README to README.md
+
+commit 45ddc62277c083dce891fd3d66a37f5dbebaa090
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 10 10:38:38 2022 -0400
+
+    updated README
+
+commit 8519a7875f97ed9a21a80dd76feeb867e45cb3d6
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 10 10:37:12 2022 -0400
+
+    updated README table
+
+commit f319c4aff27f05c02a610bdc8369b7700a0580bf
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 10 10:35:29 2022 -0400
+
+    updated README
+
+commit 59683872cdbf543f3e9abf53da0e7e4110ed5fbb
+Merge: b7ccdd9 f9b897b
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 10 10:34:16 2022 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit b7ccdd939bc68f069317b2f918d2908d8f8bb7af
+Author: Benjamin Chang <benjaminch3230@gmail.com>
+Date:   Mon Oct 10 10:30:44 2022 -0400
+
+    created README
+
+commit f9b897bcb642c13f07de5054f7d402098e07e9a1
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Mon Oct 10 10:07:30 2022 -0400
+
+    Added Makefile
+
+commit ae9ebe3c3d9bfbc0600444ff864569828c455fae
+Author: timothy <timothylinziqi@gmail.com>
+Date:   Mon Oct 10 10:06:43 2022 -0400
+
+    Finished draft for resize image and write image
+
+commit 99f5955cf7bfda4222b0d4cb27d1dd767eb85d07
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Oct 9 20:27:32 2022 -0400
+
+    Imported starter code
+
+commit e53ea20c749ddc5975dce8d64450a2a8632056f2
+Author: Benjamin <benjaminch3230@gmail.com>
+Date:   Sun Oct 9 20:26:29 2022 -0400
+
+    File Transfer

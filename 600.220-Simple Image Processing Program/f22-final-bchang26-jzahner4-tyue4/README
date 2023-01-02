@@ -1,0 +1,26 @@
+# EN.601.220 Intermediate Programming 
+## Fall 2022 Final Project - Chess
+
+## TEAM
+
+|     Name       |  JHED    |
+|:--------------:|:--------:|
+| Benjamin Chang | bchang26 |
+| Joe Zahner     | jzahner4 |
+| Tianai Yue     | tyue4    |
+
+## DESIGN
+Our team implemented the pieces, the board, and the game classes separately before debugging them together. We defined the legal move shape of each piece in their respective .cpp files and legal capture shape for the pawn. These shapes were determined by the geometry of the starting and ending position, i.e. a straight line should only have one of the dimensions of the position change and a diagonal should have both dimensions change the same amount. 
+
+For board.cpp we implemented an overloaded () constructor that iterated through every piece to check for matches with the input position. If a match was found, the function returned the pointer to the piece, if no piece had the position the operator returned a null pointer. We also implemented the add_piece function, which checked for a valid piece designator and a valid position on the board. In this function we included edge cases for a designator of '-' and '\n' because these are read in from files but do not signify pieces. We also chose to add a delete_piece function to make moves easier in the game, since then all we had to do was add the piece in the new location and delete it from the old location. On top of this we wrote a delete_all function. In the display function we iterated through the boundary and then created the board, reading in each piece and putting '-' for null. 
+
+For game.cpp we implemented a copy constructor so that we could copy games, make moves, and see if the copied games were in check. We iterated through the whole board to make a deep copy of the game. For the make_move function we first checked that there was a piece at the start, then that the start and end positions made a legal move shape for the piece, then checked every space along the path for a player (except for knights). If the move was legal, we copied the game, made the move, and tested if the copy was in check. In our in_check function we checked every square for the moving team's king, then checked every square for opposing players and if they had a clear legal path to the king. For check_mate we called in_check and then tested every possible move by the moving team to see if any would not result in check. In_stalemate is the same as in_mate except for the initial test if the piece is in check, and it also catches all the exceptions in make_move. For the point_value function we iterated through the whole board and checked for pieces that were the same color as the moving player. If they were, their point value was added to the total. 
+## COMPLETENESS
+Our function works completely to the best of our knowledge. The only issue we have is that we have to iterate through the entire board for many of our functions, sometimes with iterations inside iterations, which might cause the program to run slowly. We are fairly confident our game will run with the mystery piece. 
+## SPECIAL INSTRUCTIONS
+N/A
+
+## OTHERS
+N/A
+
+
