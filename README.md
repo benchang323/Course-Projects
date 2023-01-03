@@ -1,6 +1,6 @@
 # Course Projects
 ## Description
-This repository contains all the course projects that I have completed as part of my studies. Each project is organized by course and includes all relevant files, documentation, and any additional materials used in its development. Some code or functionality within these projects may be partially implemented to meet the specific requirements and instructions of the course. Descriptions of the projects can be found below.
+This repository contains all the course projects that I have completed as part of my studies. Each project is organized by course and includes all relevant files, documentation, and any additional materials used in its development. Some code or functionality within these projects may be partially implemented to meet the specific requirements and instructions of the course. List of the projects can be found below.
 
 ## EN.600.220 Intermediate Programming (600.220)
 1. Simple Image Processing Program
