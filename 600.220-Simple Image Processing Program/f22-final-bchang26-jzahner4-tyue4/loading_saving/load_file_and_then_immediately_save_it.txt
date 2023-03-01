@@ -1,3 +1,0 @@
-L loading_saving/board001.txt
-S output_dump/output004.txt
-q
